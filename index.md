@@ -60,6 +60,12 @@ __Milbourne, H.__ & Nickerson, S. (2016). Using Vygotsky to understand the ways 
 
 __Milbourne, H.__ & Nickerson, S. (2016). Understanding the ways GTAs appropriate and transform professional development. In M.B. Wood, E.E. Turner, M. Civil, J.A. Eli (Eds.), _Proceedings of the 38th Conference of the North American Group for the Psychology of Mathematics Education_, p. 434, Tucson, AZ.
 
+### Works in Progress
+
+__Milbourne, H.__, Wynn, L., & Zahner, W. (In Progress) Ways secondary mathematics teachers order algebra problems based on both mathematical and linguistic complexity: A case study. _Journal of Mathematical Behavior_, DBT.
+
+__Milbourne, H.__ (In Progress). The lead TA influence: The teaching practices focused on by a GTA leader for an active learning classroom. _PRIMUS_, DBT.
+
 ## Occupation
 
 `1600`
