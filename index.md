@@ -4,31 +4,19 @@ title: Isaac Newtons's CV
 ---
 # Hayley Milbourne
 Center for Research in Mathematics and Science Education
+
 San Diego State University
 <div id="webaddress">
-<a href="hmilbourne@sdsu.edu">isaac@applesdofall.org</a>
+<a href="hmilbourne@sdsu.edu">hmilbourne@sdsu.edu</a>
 | 805-704-4345
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected December 2017`
+__San Diego State University and University of California, San Diego__, San Diego, CA
+PhD Mathematics and Science Education
 
 `June 1661 - now`
 __Trinity College, Cambridge__
