@@ -17,31 +17,21 @@ San Diego State University
 `Expected Dec 2017`
 __San Diego State University and University of California, San Diego__, San Diego, CA
 
-*PhD Mathematics and Science Education*
+_PhD Mathematics and Science Education_
 
-*Dissertation Title*: The Changes in Teaching Practice Among GTAs as They Interact With Each Other and Professional Development
+_Dissertation Title:_ The Changes in Teaching Practice Among GTAs as They Interact With Each Other and Professional Development
 
-*Committee*: Susan Nickerson (Chair), Chris Halter, Chris Rasmussen, Jeff Rabin, Janet Bowers
+_Committee:_ Susan Nickerson (Chair), Chris Halter, Chris Rasmussen, Jeff Rabin, Janet Bowers
 
 `May 2013`
 __University of Arizona__, Tucson, AZ
 
-*MS Applied Mathematics*
+_MS Applied Mathematics_
 
 `June 2011`
 __University of California, San Diego__, San Diego, CA
 
-*BS Mathematics - Scientific Computation
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+_BS Mathematics - Scientific Computation_
 
 
 ## Publications
@@ -50,19 +40,25 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+__Miles-Leighton, H.__ & Pilgrim, K. (2012). Smale’s mean value conjecture and complex dynamics. _Computational Methods and Function Theory, 12_(2), 559-563.
 
-`1669`
-Lectiones opticæ.
+Selinski, N. & __Milbourne, H.__ (2015). The institutional context. In D. Bressoud, V. Mesa, & C. Rasmussen (Eds.), _Insights and recommendations from the MAA national study of college calculus._ Washington, D.C.: Mathematical Association of America.
 
-etc. etc. etc.
+### Refereed Conference Proceedings
 
-### Patents
+__Milbourne, H.__ (2015). Implementing inquiry-oriented instructional materials: A comparison of two classrooms. In T. Fukawa-Connelly, N.E. Infante, K. Keene, M. Zandieh (Eds.), _Proceedings of the 18th Annual Conference on Research in Undergraduate Mathematics Education_ (pp. 770-775), Pittsburg, PA.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Zandieh, M., Plaxco, D., Wawro, M., Rasmussen, C., __Milbourne, H.__, & Czeranko, K. (2015). Extending multiple choice format to document student thinking. In T. Fukawa-Connelly, N.E. Infante, K. Keene, M. Zandieh (Eds.), _Proceedings of the 18th Annual Conference on Research in Undergraduate Mathematics Education_ (pp. 1196-1102), Pittsburg, PA.
 
+Apkarian, N., Rasmussen, C., __Milbourne, H.__, Dreyfus, T., Gao, X., & Voigt, M. (2016) Ways in which engaging in someone else’s reasoning is productive. In T. Fukawa-Connelly, N.E. Infante, M. Wawro, S. Brown (Eds.), _Proceedings of the 19th Annual Conference on Research in Undergraduate Mathematics Education_ (pp. 518-526), Pittsburg, PA.
+
+__Milbourne, H.__, Czeranko, K., Rasmussen, R., & Zandieh, M. (2016) Using adjacency matrices to analyze a proposed linear algebra assessment. In T. Fukawa-Connelly, N.E. Infante, M. Wawro, S. Brown (Eds.), _Proceedings of the 19th Annual Conference on Research in Undergraduate Mathematics Education_ (pp. 1104-1106), Pittsburg, PA.
+
+__Milbourne, H.__ & Nickerson, S. (2016) A proposed framework for tracking professional development through GTAs. In T. Fukawa-Connelly, N.E. Infante, M. Wawro, S. Brown (Eds.), _Proceedings of the 19th Annual Conference on Research in Undergraduate Mathematics Education_ (pp. 1107-1109), Pittsburg, PA.
+
+__Milbourne, H.__ & Nickerson, S. (2016). Using Vygotsky to understand the ways GTAs appropriate professional development. In C. Csíkos, A. Rausch, J. Szitányi (Eds.), _Proceedings of the 40th Conference of the International Group for the Psychology of Mathematics Education._ Szeged, Hungary: International Group for the Psychology of Mathematics Education, Volume 1, p. 389.
+
+__Milbourne, H.__ & Nickerson, S. (2016). Understanding the ways GTAs appropriate and transform professional development. In M.B. Wood, E.E. Turner, M. Civil, J.A. Eli (Eds.), _Proceedings of the 38th Conference of the North American Group for the Psychology of Mathematics Education_, p. 434, Tucson, AZ.
 
 ## Occupation
 
