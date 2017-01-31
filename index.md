@@ -76,6 +76,21 @@ __Milbourne, H.__ (2017, Jan.). The lead TA influence: A case study on how the l
 
 ## Research Experience
 
+'Aug 2016 - Current'
+__Research Assistant__
+
+San Diego State University
+
+*Project Title:* Fostering Productive and Powerful Discussions among Linguistically Diverse Students in Secondary Mathematics
+
+*Funded By:* CAREER, William Zahner (PI)
+
++ Designed and updated website for the project (meld.sdsu.edu)
++ Observed units on linear and exponential functions at local high school serving ELL students
++ Performed qualitative analyses to examine teachers’ understanding of mathematical and linguistic complexity within algebra problems
++ Assisted in creation of HLT’s that include both mathematics and linguistic development
++ Will prepare a report for publication
+
 ## Collegiate Teaching Experience
 
 ## Professional Development Experience
