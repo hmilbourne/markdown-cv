@@ -66,17 +66,21 @@ __Milbourne, H.__, Wynn, L., & Zahner, W. (In Progress) Ways secondary mathemati
 
 __Milbourne, H.__ (In Progress). The lead TA influence: The teaching practices focused on by a GTA leader for an active learning classroom. _PRIMUS_, DBT.
 
-## Occupation
+## Scholarly Presentations
 
-`1600`
-__Royal Mint__, London
+__Milbourne, H.__ (2015, Jan). Implementing inquiry-oriented instructional materials: A comparison of two classrooms. Talk at Joint Mathematics Meeting, San Antonio, TX.
 
-- Warden
-- Minted coins
+Zahner, W., __Milbourne, H.__, & Wynn, L. (2017, Jan.). Ways secondary mathematics teachers order algebra problems based on both mathematical and linguistic complexity: A case study. Talk at the Joint Mathematics Meeting, Atlanta, GA.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Milbourne, H.__ (2017, Jan.). The lead TA influence: A case study on how the lead TA influences the teaching practices of other GTAs. Talk at the Joint Mathematics Meeting, Atlanta, GA.
 
+## Research Experience
+
+## Collegiate Teaching Experience
+
+## Professional Development Experience
+
+## Service
 
 
 <!-- ### Footer
