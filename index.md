@@ -14,19 +14,24 @@ San Diego State University
 
 ## Education
 
-`Expected December 2017`
+`Expected Dec 2017`
 __San Diego State University and University of California, San Diego__, San Diego, CA
-PhD Mathematics and Science Education
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+*PhD Mathematics and Science Education*
 
-- Sizar
+*Dissertation Title*: The Changes in Teaching Practice Among GTAs as They Interact With Each Other and Professional Development
 
-`1667 - death`
-__Trinity College, Cambridge__
+*Committee*: Susan Nickerson (Chair), Chris Halter, Chris Rasmussen, Jeff Rabin, Janet Bowers
 
-- Fellow
+`May 2013`
+__University of Arizona__, Tucson, AZ
+
+*MS Applied Mathematics*
+
+`June 2011`
+__University of California, San Diego__, San Diego, CA
+
+*BS Mathematics - Scientific Computation
 
 
 
