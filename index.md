@@ -76,7 +76,7 @@ __Milbourne, H.__ (2017, Jan.). The lead TA influence: A case study on how the l
 
 ## Research Experience
 
-'Aug 2016 - Current'
+`Aug 2016 - Current`
 __Research Assistant__
 
 San Diego State University
@@ -90,6 +90,46 @@ San Diego State University
 + Performed qualitative analyses to examine teachers’ understanding of mathematical and linguistic complexity within algebra problems
 + Assisted in creation of HLT’s that include both mathematics and linguistic development
 + Will prepare a report for publication
+
+`Aug 2014-Aug 2015`
+__Research Assistant__
+
+San Diego State University
+
+*Project Title:* Knowledge Shifts in the Mathematics Classroom: The Roles of Students and Teachers 
+
+*Funded By:* Israeli Science Foundation, Grants No. 1057/12; 438/15
+
++ Collected video data in a classroom setting
++ Helped analyze data from student interviews
++ Assisted in the creation and collection of student interviews
+
+`Aug 2013-Aug 2015`
+__Research Assistant__
+
+San Diego State University
+
+*Project Title:*
+
+*Funded BY:*
+
++ Designed and tested a national assessment on Linear Algebra topics
++ Assisted in the development of inquiry oriented materials for Linear Algebra
++ Performed qualitative analyses of teachers implementing the materials in their classrooms
++ Conducted interviews with linear algebra students in the course of developing the assessment
++ Developed and implemented a survey form of the assessment at several different institutions across the US
+
+`Aug 2013-Aug 2014`
+__Research Assistant__
+
+San Diego State University
+
+*Project Title:* Characteristcs of Successful Programs in College Calculus
+
+*Funded By:* NSF DRL Award (#0910240)
+
++ Performed qualitative analyses of results from nation wide survey on the state of college calculus
++ Co-authored a chapter in the MAA notes volume about the project
 
 ## Collegiate Teaching Experience
 
