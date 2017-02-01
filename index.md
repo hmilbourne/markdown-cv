@@ -131,7 +131,103 @@ San Diego State University
 + Performed qualitative analyses of results from nation wide survey on the state of college calculus
 + Co-authored a chapter in the MAA notes volume about the project
 
-## Collegiate Teaching Experience
+## Teaching Experience
+
+`Spring 2017`
+__Co-Instructor__
+
+San Diego State University
+
+*Course Title:* Research on Mathematics Teaching and Teachers (MthEd 604)
+
++ Debriefed after each class session with the instructor about student thinking
++ Assisted in the creation of the lesson plans for each week and in the creation of the reading list for the course
++ Ran at least one portion of each class meeting
++ Assisted in the grading for the course
+
+`Fall 2016`
+__Observer__
+
+San Diego State University
+
+*Course Title:* Integrate Mathematics I
+
++ Observed 40 hours of instruction among three different instructors
+
+`FA 2015, SP 2016`
+__Instructor__
+
+San Diego State University
+
+*Course Title:* Number Systems in Elementary Mathematics (Math 210)
+
++ Supported prospective elementary school teachers in developing mathematical knowledge for teaching
+
+`Fall 2014`
+__Co-Instructor__
+
+San Diego State University
+
+*Course Title:* Transition to Higher Mathematics (Math 302)
+
++ Debriefed after each class session with the instructor about student thinking and particular instructional moves
++ Assisted in facilitating group work during class sessions
++ Ran the course at various times throughout the semester
++ Assisted in the grading of exams for the course
+
+`Summer 2013`
+__Instructor__
+
+University of Arizona: New Start Program
+
+*Course Title:* College Algebra (Math 112)
+
++ Supported undergraduate students in developing an understanding of college algebra topics
++ Served as newsletter editor for the New Start program
++ Assisted in various activities put together by the New Start program
+
+`FA 2012, SP 2013`
+__Instructor__
+
+University of Arizona
+
+*Course Title:* College Algebra (Math 112)
+
++ Supported undergraduate students in developing an understanding of college algebra topics
+
+`SP 2013`
+__Teaching Assistant__
+
+University of Arizona
+
+*Course Title:* Understanding Elementary Mathematics (Math 302)
+
++ Assisted instructor during class time in the facilitation of group work
+
+`FA 2012`
+__Teaching Assistant__
+
+University of Arizona
+
+*Course Title:* Plane Trigonometry (Math 111)
+
++ Assisted instructor during problem sessions 
+
+`Sp 2008`
+__Teaching Assistant__
+
+Cuesta College
+
+*Course Title:* Applied Problems for General Chemistry (Chem 201X)
+
++ Ran a discussion section with the students in the class where they worked on worksheets related to topics in the class
+
+`Fa 2006-Sp 2008`
+__Tutor__
+
+Cuesta College
+
++ Severed as a drop-in tutor and personal tutor for individual students and groups of students in mathematics topics ranging from arithmetic to Calculus, including Statistics
 
 ## Professional Development Experience
 
