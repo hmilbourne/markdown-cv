@@ -268,6 +268,55 @@ CoMInDs, Unaiversity of Maine
 
 ## Service
 
+`Fa 2015-Sp 2017`
+__CRMSE Graduate Representative__
+
++ Served as graduate student representative during various CRMSE events such as advisory board meetings and seminars
++ Attended CRMSE meetings once a month to help plan events
++ Assisted in recruitment efforts for the MSED program
++ Assisted in creating recruitment videos for the MSED website
+
+`Spring 2017`
+__Local Organizing Committee Member__
+
++ Assisted in the planning and running of the Research in Undergraduate Mathematics Education Conference 
+
+`Sp 2015`
+__Student Search Committee Member__
+
++ Participated in the search committee that resulted in the successful hiring or Daniel Reinholz
+
+`2015, 2016`
+__Reviewer__
+
++ Reviewed proposal for the Research in Undergraduate Mathematics Education Conference 
+
+`2014-2015`
+__Volunteer__
+
++ Volunteered as a greeter for Ruben H. Fleet Science Center
+
+`2011, 2014, 2017`
+__Role Model__
+
++ Volunteered as a role model for the Expanding Your Horizons event in San Diego
+
+`2013`
+__Oraganizer__
+
++ Organized and ran an event known as Sonia Kovalesky Day at the University of Arizona, which works to get high school girls interested in mathematics
++ Applied for funding, booked rooms and speakers, and organized the event
+
+`2012`
+__Mentor__
+
++ Served as a mentor during Sonia Kovalesky Day at the University of Arizona
++ Created an activity and worked with high school girls for the day on mathematics
+
+`2012, 2013`
+__Grader__
+
++ Volunteered as a grader for the Math Counts competition in Tucson, AZ
 
 <!-- ### Footer
 
