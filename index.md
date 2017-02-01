@@ -231,6 +231,41 @@ Cuesta College
 
 ## Professional Development Experience
 
+`Aug 2016-May 2017`
+__Observer__
+
+San Diego State University
+
++ Observed the professional development course for the GTAs 
+
+`Aug 2016-May 2017`
+__Assistant__
+
+San Diego State University
+
++ Assisted in weekly teacher meetings with three instructors of integrated mathematics I at a local high school
+
+`Jan 2017`
+__Leader__
+
+San Diego State University
+
++ Organized and ran professional development seminar for new graduate teaching assistants in Calculus I and II
+
+`Aug 2015-Dec 2016`
+__Assistant__
+
+San Diego State University
+
++ Assisted in planning and running professional development seminars for graduate teaching assistants of Calculus I and II
+
+`June 2015`
+__Participant__
+
+CoMInDs, Unaiversity of Maine
+
++ Participated in a three-day professional development seminar on creating and running professional development programs for graduate teaching assistants
+
 ## Service
 
 
