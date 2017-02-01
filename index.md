@@ -262,7 +262,7 @@ San Diego State University
 `June 2015`
 __Participant__
 
-CoMInDs, Unaiversity of Maine
+CoMInDs, University of Maine
 
 + Participated in a three-day professional development seminar on creating and running professional development programs for graduate teaching assistants
 
